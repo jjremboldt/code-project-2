@@ -1,0 +1,168 @@
+.row {
+  padding-top: 50px;
+}
+
+.jr_pic {
+  display: blocki;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.col-md-12-title {
+  text-align: center;
+}
+
+.aboutme_pic {
+  display: blocki;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.container_ol{
+  width: 150px;
+  margin: 0 auto;
+}
+
+.col-md-6-projects {
+  display: block;
+  text-align: center;
+  padding: 10px 50px 10px 50px;
+  float: left;
+  width: 250px;
+  margin: 0 auto;
+}
+
+.projects_container {
+  width: 100%;
+  height: 100%
+  text-align: center;
+}
+
+.intro_container {
+  margin-top: 0px;
+  height: auto;
+  padding-top: 50px;
+
+}
+
+p.subremark {
+  font-size: 24px;
+}
+
+.col-md-4 {
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+}
+
+p.section_title {
+  font-size: 24px;
+  text-align: center;
+  font-weight: bold;
+  padding-top: 50px;
+  padding-bottom: 25px;
+}
+
+h2.section_title {
+  font-size: 24px;
+  text-align: center;
+  padding: 10px 10px 0 20px;
+  font-weight: bold;:
+}
+
+.section_projects {
+  margin-top: 50px;
+  margin-bottom: : 50px;
+}
+
+.inner {
+ margin-top:19px;
+ border-bottom: 2px dotted #b38b0d;
+ border-left: 50px;
+ border-right: 50px;
+}
+
+h3.prj_heading {
+  font-size: 18px;
+  font-weight: bold;
+  border: 1px 1px 1px 1px;
+  }
+
+.prj_title_row {
+  margin-bottom: 5px;
+  padding-bottom: 10px;
+}
+
+p.border {
+  border-left: 1px;
+  border-right: 0px;
+  border-top: 0px;
+  border-bottom: 0px;
+  border-style: solid;
+  border-color: black;
+  padding-left: 5px;
+}
+
+.img_row {
+  min-height: 350px;
+  padding-top: 25px;
+}
+
+.img_center {
+  display: block;
+  margin: 0 auto;
+}
+
+p.projects {
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+h3.about_me {
+  text-align: right;
+  font-size: 16px;
+  font-weight: bold;
+
+}
+
+.bg-info-left {
+  width: 60%;
+  background-color: white;
+  margin-left: 50px;
+}
+
+.bg-info-right {
+  width: 25%;
+  background-color: white;
+  margin-left: auto;
+  margin-right: 300px;
+  width: 50%;
+}
+
+
+.me_row_title {
+  min-height: 150px;
+  padding-bottom: 0px;
+
+}
+.row_about {
+  min-height: 350px;
+  border: 1px solid #C9CAC8;
+}
+
+.col-md-3-about {
+  float: left;
+}
+
+.container_about {
+  width: 200px;
+   margin:0 auto;
+}
+
+.container_bullets {
+  width: 300px;
+  min-height: 20px;
+  clear: both;
+
+
+}
