@@ -10,11 +10,7 @@ John Remboldt
 
 This application is to demonstrate what we have learned to date in our Epicodus Intro to Programming class.
 
-### Setup/Installation Requirements
 
-* This is a simple web site.
-* It is ready to view.
-* It only requires a web browser.
 
 ### Known Bugs
 
