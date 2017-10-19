@@ -28,6 +28,16 @@ You can reach me at jjremboldt@icloud.com.
 
 The application uses html.
 
+### Set Up Instructions
+
+Download this repo using your terminal:  git clone repo
+
+https://github.com/jjremboldt/code-project-2
+
+View the code by dropping the file into your favorite code editor.
+
+Run/check out the program by droping the index file/html file from your folder into your favorite web browser.
+
 ### License
 
 No license is required to use or distribute this work.
